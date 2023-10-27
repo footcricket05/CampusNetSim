@@ -1,4 +1,4 @@
-# Smart Campus Simulation Project Using DHCP with Cisco packet Tracer
+# Smart Campus Simulation Using DHCP with Cisco packet Tracer
 
 ## Overview
 
