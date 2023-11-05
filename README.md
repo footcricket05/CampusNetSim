@@ -4,6 +4,8 @@
 
 Welcome to the CampusNetSim project repository. This repository contains the essential files for the Smart Campus Simulation Project, where we explore the potential of Internet of Things (IoT) technology within a university campus environment. Our project is focused on the utilization of the Dynamic Host Configuration Protocol (DHCP) for efficient IP address allocation, network security, scalability, and resource optimization within the campus network.
 
+**Note**: This repository offers an insightful exploration of IoT technology and the role of DHCP in creating a Smart Campus Simulation. Whether you're a student looking to learn more about networking, IoT, or DHCP, an educator searching for teaching materials, or a network professional interested in campus network optimization, this project provides valuable resources and hands-on experience. Enjoy your journey through the Smart Campus Simulation! 🏫🌐🚀
+
 ## Repository Contents 📦
 
 1. **Smart Campus (DHCP).pkt:** This Packet Tracer (pkt) file serves as the core of our project. It encompasses the network topology, device configurations, and DHCP settings employed in the Smart Campus Simulation.
@@ -23,10 +25,18 @@ To embark on your Smart Campus Simulation journey, follow these steps:
 
 3. Dive into the `Smart Campus (DHCP) Report.pdf` for an in-depth understanding of the project's objectives, outcomes, and the significant role played by DHCP within the simulation.
 
+## Accessing IoT Devices 📱💻
+
+To monitor and run the simulation for IoT devices within Cisco Packet Tracer, please use the following credentials:
+
+- **Username**: shaurya
+- **Password**: shaurya
+
 ## Contributing 🤝
 
 We enthusiastically welcome contributions and feedback from the community. If you have ideas for improving the Smart Campus Simulation Project or would like to collaborate, please open an issue or submit a pull request. We value your input and collaboration.
 
 ## License 📜
 
-This project is open-source and is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute it in accordance with the terms of the license. 
+This project is open-source and is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute it in accordance with the terms of the license.
+
